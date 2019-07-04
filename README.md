@@ -1,1 +1,2 @@
-# cv
+# personal-website
+just for learning purpose
